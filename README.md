@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Solution](https://your-solution-url.com)
+- Solution URL: [View Solution](https://www.frontendmentor.io/solutions/html5-css3-flexbox-vanilla-js-7VAqVzNxvv)
 - Live Site URL: [View Demo](https://advice-generator-pearl.vercel.app)
 
 ## My process
